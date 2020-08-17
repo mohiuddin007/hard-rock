@@ -39,3 +39,8 @@ body{
     border-radius: 15px;
 }
 
+/* extra style */
+#songList, #singleLyrics, #fancyResultList{
+    display: none;
+}
+
